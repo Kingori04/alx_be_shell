@@ -1,2 +1,2 @@
 #About
-a script that switches the user to Betty on your terminal
+a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
