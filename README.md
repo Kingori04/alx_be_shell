@@ -1,2 +1,2 @@
-#project scripts
-This is a  script that switches the current user to the user betty.
+#About
+a script that switches the user to Betty on your terminal
